@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Icon-yuhkitakahashi" serif:id="Icon/yuhkitakahashi" transform="matrix(0.4,0,0,0.533333,0,0)">
+        <rect x="0" y="0" width="800" height="600" style="fill:none;"/>
+        <g transform="matrix(2.19722,0,0,1.64792,-480.446,-176.756)">
+            <path d="M560,448.584L373.196,448.584L461.168,360.611L560,360.611L560,448.584ZM292.207,360.611L435.583,360.611L347.611,448.584L241.416,448.584L292.207,360.611ZM241.416,413.185L241.416,165.398L312.946,289.292L241.416,413.185ZM425.351,130L560,130L560,342.389L302.728,342.389L425.351,130Z" style="fill:white;"/>
+            <g transform="matrix(-0.337168,0,0,-0.337168,878.584,767.167)">
+                <path d="M1889.76,1889.76L1404.85,1889.76C1485.67,1749.78 1566.49,1609.8 1647.31,1469.82L1889.76,1889.76Z" style="fill:rgb(229,242,13);"/>
+            </g>
+        </g>
+    </g>
+</svg>
